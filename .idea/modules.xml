@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sample/Sample.iml" filepath="$PROJECT_DIR$/Sample/Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dibaci/dibaci.iml" filepath="$PROJECT_DIR$/dibaci/dibaci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dierci/dierci.iml" filepath="$PROJECT_DIR$/dierci/dierci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diliuci/diliuci.iml" filepath="$PROJECT_DIR$/diliuci/diliuci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diqici/diqici.iml" filepath="$PROJECT_DIR$/diqici/diqici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/disanci/disanci.iml" filepath="$PROJECT_DIR$/disanci/disanci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/disici/disici.iml" filepath="$PROJECT_DIR$/disici/disici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diwuci/diwuci.iml" filepath="$PROJECT_DIR$/diwuci/diwuci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diyici/diyici.iml" filepath="$PROJECT_DIR$/diyici/diyici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erer/erer.iml" filepath="$PROJECT_DIR$/erer/erer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ersan/ersan.iml" filepath="$PROJECT_DIR$/ersan/ersan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ershi/ershi.iml" filepath="$PROJECT_DIR$/ershi/ershi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ersi/ersi.iml" filepath="$PROJECT_DIR$/ersi/ersi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erwu/erwu.iml" filepath="$PROJECT_DIR$/erwu/erwu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eryi/eryi.iml" filepath="$PROJECT_DIR$/eryi/eryi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rjsjms.iml" filepath="$PROJECT_DIR$/rjsjms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shi/shi.iml" filepath="$PROJECT_DIR$/shi/shi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiba/shiba.iml" filepath="$PROJECT_DIR$/shiba/shiba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shier/shier.iml" filepath="$PROJECT_DIR$/shier/shier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shijiu/shijiu.iml" filepath="$PROJECT_DIR$/shijiu/shijiu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiliu/shiliu.iml" filepath="$PROJECT_DIR$/shiliu/shiliu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiqi/shiqi.iml" filepath="$PROJECT_DIR$/shiqi/shiqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shisan/shisan.iml" filepath="$PROJECT_DIR$/shisan/shisan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shisi/shisi.iml" filepath="$PROJECT_DIR$/shisi/shisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiwu/shiwu.iml" filepath="$PROJECT_DIR$/shiwu/shiwu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyi/shiyi.iml" filepath="$PROJECT_DIR$/shiyi/shiyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyi/src/src.iml" filepath="$PROJECT_DIR$/shiyi/src/src.iml" />
+    </modules>
+  </component>
+</project>
